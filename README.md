@@ -1,2 +1,2 @@
-# hello-world
-A test repository
+# Beschreibung
+Ein Repository zum Testen und Ausprobieren von Github und seinen Funktionen
